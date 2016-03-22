@@ -1,0 +1,2 @@
+serviceClass: br.com.lhm.scutils.client.GreetingService
+path: 4DB06F8328B1F3DC53154C6B6E03E301.gwt.rpc
